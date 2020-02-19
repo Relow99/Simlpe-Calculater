@@ -11,7 +11,7 @@ public class Addition {
 
         return sum;
     }
-//    thi declares my variable
+//  Declaring
     public static void main(String[] args) {
 
         System.out.println(add(1, 3));
