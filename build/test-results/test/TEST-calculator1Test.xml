@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="calculator1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-18T07:41:13" hostname="umuzi-admin" time="0.017">
+<testsuite name="calculator1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-20T14:04:51" hostname="umuzi-admin" time="0.018">
   <properties/>
-  <testcase name="add()" classname="calculator1Test" time="0.017"/>
-  <system-out><![CDATA[5
+  <testcase name="multiply()" classname="calculator1Test" time="0.018"/>
+  <system-out><![CDATA[6
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

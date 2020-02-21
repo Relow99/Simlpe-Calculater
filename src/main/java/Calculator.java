@@ -1,4 +1,4 @@
-public class calculator1 {
+public class Calculator {
 
     public static int add(int... numbers){
         int sum=0;
@@ -13,14 +13,12 @@ public class calculator1 {
 
     public static int multiply(int... numbers){
         int product=1;
-        for (int number: numbers){
-
-            product*=number;
-        }
+        for (int number: numbers) product *= number;
         System.out.println(product);
         return product;
 
     }
+
     public static void main(String [] args) {
 
         add(1,2,3,4,5);
